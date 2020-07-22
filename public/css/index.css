@@ -131,6 +131,9 @@ nav a:visited {
 }
 /* phone */
 @media (max-width: 576px) {
+  .hide-phone {
+    display: none;
+  }
   button {
     margin: 1rem 0rem;
   }
